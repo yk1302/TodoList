@@ -1,6 +1,6 @@
-# newsipify
+# TodoList
 
-A new Flutter project.
+A flutter application where todos are created, fetch and display, update,  and delete. And Todos are stored in firebase database.
 
 ## Getting Started
 
